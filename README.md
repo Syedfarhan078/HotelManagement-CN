@@ -53,6 +53,11 @@ The hotel has **three floors**, and each floor hosts specific departments as des
 
 ---
 
+Network Topology Created
+The network topology below satisfy the user requirements above and everything is verified, tested and working fine.
+<img width="1882" height="876" alt="Network Implementation Image" src="https://github.com/user-attachments/assets/66ef70f9-0fb0-403a-88da-0ad0ca84bec7" />
+
+
 > 💡 **Note:** The above configuration ensures a realistic, secure, and scalable enterprise-level network simulation for a hotel environment.  
 > Designed using Cisco Packet Tracer version 8.2 or later.
 
